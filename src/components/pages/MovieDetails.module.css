@@ -1,0 +1,51 @@
+.container {
+  padding: 20px;
+  background-color: #e1e1e5;
+  color: #1d2427;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.backLink {
+  color: #1d2427;
+  text-decoration: none;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.title {
+  font-size: 34px;
+  margin-bottom: 8px;
+}
+
+.overview {
+  margin-bottom: 16px;
+}
+
+.poster {
+  width: 250px;
+  height: auto;
+  margin-bottom: 16px;
+}
+
+.link {
+  color: #1d2427;
+  text-decoration: none;
+  margin-right: 16px;
+}
+
+.link:last-child {
+  margin-right: 0;
+}
+.linksContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+}
+
+.link {
+  color: #a41425;
+  text-decoration: none;
+  margin-bottom: 8px;
+}

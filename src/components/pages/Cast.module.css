@@ -1,0 +1,39 @@
+.container {
+  background-color: #e1e1e5;
+  color: #1d2427;
+  padding: 20px;
+}
+.backLink {
+  color: #432d24;
+  text-decoration: none;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+
+.title {
+  font-size: 34px;
+  margin-bottom: 16px;
+}
+
+.castList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.castItem {
+  text-align: center;
+  width: 120px;
+}
+
+.actorImage {
+  border-radius: 8px;
+}
+
+.actorName {
+  margin-top: 8px;
+  font-size: 16px;
+}
